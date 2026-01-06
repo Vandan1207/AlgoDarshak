@@ -1,7 +1,8 @@
 #toolbar {
   width: 100%;
   height: 100px;
-  background-color: #34495e;
+ background-color: #0d0d0d; 
+  border-bottom: 2px solid #333;
 }
 
 #generateArray {
@@ -61,13 +62,15 @@
 }
 
 .currentAlgorithmButton {
-  color: rgb(241, 94, 255);
+ color: #33FFF5; 
   font-size: 16px;
   font-family: monospace;
   display: inline-block;
   margin-left: 15px;
   margin-right: 15px;
   cursor: pointer;
+  font-weight: bold; /* Make it pop */
+  text-shadow: 0 0 5px #33FFF5; /* Glow effect */
 }
 
 #sort {
@@ -100,7 +103,7 @@ input[type=range]::-webkit-slider-thumb {
     height: 16px;
     width: 16px;
     border-radius: 50%;
-    background: rgb(241, 94, 255);
+        background: #FF3366; 
     margin-top: -4px;
 }
 

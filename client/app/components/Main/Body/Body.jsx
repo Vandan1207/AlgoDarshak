@@ -43,12 +43,12 @@ class Body extends Component {
       <div id="bodyContainer">
         { array.length ? array.map((number, index) => {
           const backgroundColor = currentSwappers.includes(index) ?
-              "rgba(219, 57, 57, 0.8)" : currentBubbleTwo.includes(index) ||
+               "#FF3366" : currentBubbleTwo.includes(index) ||
               currentQuickTwo.includes(index) || currentHeapThree.includes(index) ||
               currentMergeX.includes(index) ?
-                "rgba(78, 216, 96, 0.8)" : pivot === index ?
-                  "rgba(237, 234, 59, 0.8)" : currentSorted.includes(index) ?
-                    "rgba(169, 92, 232, 0.8)" : "rgba(66, 134, 244, 0.8)";
+                 "#33FF57" :  pivot === index ?
+                  "#FFAA33" : currentSorted.includes(index) ?
+                    "#33FFF5"  : "#8854d0";
           return <div
             className="arrayElement"
             key={index}
