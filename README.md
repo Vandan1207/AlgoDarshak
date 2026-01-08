@@ -1,6 +1,6 @@
 # AlgoDarshak 🚀
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/3_nJKDRT0GE" target="_blank">
     <img 
       src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
       alt="YouTube Demo"
