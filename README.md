@@ -9,7 +9,7 @@
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/3_nJKDRT0GE" target="_blank">
     <b>Watch Demo on YouTube</b>
   </a>
 </p>
