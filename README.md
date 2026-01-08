@@ -1,4 +1,18 @@
 # AlgoDarshak 🚀
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+      alt="YouTube Demo"
+      width="90"
+      style="vertical-align: middle;"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+    <b>Watch Demo on YouTube</b>
+  </a>
+</p>
 A web app that visually demonstrates how popular sorting algorithms work in real time.
 <table align="center">
   <tr>
