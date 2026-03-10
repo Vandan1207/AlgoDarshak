@@ -1,7 +1,7 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "client",
+  "outputDirectory": "client/public",
   "routes": [
-    { "src": "/(.*)", "dest": "/client/app/index.html" }
+    { "src": "/(.*)", "dest": "/client/index.html" }
   ]
 }
