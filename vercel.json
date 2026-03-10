@@ -2,6 +2,6 @@
   "buildCommand": "npm run build",
   "outputDirectory": "client/public",
   "routes": [
-    { "src": "/(.*)", "dest": "/index.html" }
+    { "src": "/(.*)", "dest": "/client/index.html" }
   ]
 }
